@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/notcjsite.work.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "9.36%",
-    "uptimeDay": "9.36%",
-    "uptimeWeek": "9.36%",
-    "uptimeMonth": "9.36%",
-    "uptimeYear": "9.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 188,
     "timeWeek": 188,
     "timeMonth": 188,
     "timeYear": 188,
-    "dailyMinutesDown": {
-      "2024-09-28": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zabbix",
